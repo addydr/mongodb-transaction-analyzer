@@ -2,22 +2,19 @@
 FSU COP4064: Application Development with Non-Traditional Databases Project with Dr. Karen Works
 
 <h2>Description</h2>
-This project simulates a backend data service by building and interacting with a MongoDB document database using Python, including database initialization, data ingestion, and query operations. It implements structured data workflows such as filtering, sorting, and attribute selection to model real-world transaction processing and retrieval. A menu-driven interface enables users to add, view, and retrieve records with input validation, reflecting core backend application functionality.
-
-<br />
+This project simulates a backend data application by creating and managing a MongoDB database using Python, with support for CRUD-style operations such as adding and viewing records. It features a menu-driven interface and robust input validation to ensure consistent and accurate data handling.
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PHP</b>
-- <b>HTML</b>
-- <b>MySQL</b>
-- <b>XAMPP</b>
+- <b>Python</b>
+- <b>MongoDB</b>
+- <b>MongoClient via Pymongo</b>
 
 <h2>Environments Used </h2>
 
-- <b>Apache Netbeans</b>
-- <b>Unix Server</b>
+- <b>PyCharm</b>
+- <b>MongoDB Atlas</b>
 - <b>MySQL Database</b>
 
 <h2>Program walk-through:</h2>
