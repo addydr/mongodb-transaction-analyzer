@@ -20,6 +20,7 @@ This project simulates a backend data application by creating and managing a Mon
 <p align="center">
 With a local MongoDB server running, run DBCreate.py. JSON data is hardcoded into DBCreate.py, so there is no need for the sample_analytics data. Below is the expected output: <br/>
 <img src="https://imgur.com/CdZ3QKB.png" height="80%" width="80%" alt="DBCreate steps"/>
+<img src="https://imgur.com/1DwKs3h.png" height="80%" width="80%" alt="DBCreate steps"/>
 <br />
 <br />
 Search for a camera body. Here, I searched for names like 'n':  <br/>
