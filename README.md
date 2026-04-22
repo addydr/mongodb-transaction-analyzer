@@ -14,8 +14,6 @@ This project simulates a backend data application by creating and managing a Mon
 <h2>Environments Used </h2>
 
 - <b>PyCharm</b>
-- <b>MongoDB Atlas</b>
-- <b>MySQL Database</b>
 
 <h2>Program walk-through:</h2>
 
