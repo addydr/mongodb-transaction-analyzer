@@ -26,12 +26,8 @@ Now you can run DBQuery.py. This file uses find() and limits results by rows and
 <img src="https://imgur.com/CdZ3QKB.png" height="80%" width="80%" alt="DBQuery steps"/>
 <img src="https://imgur.com/1DwKs3h.png" height="80%" width="80%" alt="DBQuery steps"/><br />
 <br />
-Select 'Add Camera' and add a new record to the database: <br/>
-<img src="https://i.imgur.com/ebYaI5Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select View on the Cameras page to see the new entry to update or delete:  <br/>
-<img src="https://i.imgur.com/2mNTNZx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+In order to add a transaction or display values, run DBApp.py. Below showcases the menu: <br/>
+<img src="https://imgur.com/krkKjbH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
