@@ -18,7 +18,7 @@ This project simulates a backend data application by creating and managing a Mon
 <h2>Program walk-through:</h2>
 
 <p align="center">
-With a local MongoDB server running, run DBCreate.py and DBQuery.py: <br/>
+With a local MongoDB server running, run DBCreate.py. Below is the expected output: <br/>
 <img src="https://i.imgur.com/Y0To6De.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
